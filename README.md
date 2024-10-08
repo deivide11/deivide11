@@ -21,13 +21,15 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="15" />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="60" alt="sass logo"  />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
 </div>
 
